@@ -1,2 +1,2 @@
 hi
-i make ksp a mod
+i make a ksp mod
